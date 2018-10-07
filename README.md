@@ -1,6 +1,6 @@
 # DataScience-Projects-SVM-Predicting-Cancer
 
-## Predicting Cancer using various Medical parameters
+## Predicting Cancer using various Medical attributes using Machine Learning Algorithms, Support Vector Machines
 
 **NOTE** Be careful with moving back and forth the various sections in this assignment as we will be building a lot of models and unexpected things might happen if you don't carefully handle the objects in your global environment
 
